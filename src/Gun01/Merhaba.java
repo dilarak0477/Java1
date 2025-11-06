@@ -12,7 +12,7 @@ public class Merhaba {
 
         System.out.println("yapıldı 2");
 
-
+        System.out.println("yapıldı 3");
 
     }
 
