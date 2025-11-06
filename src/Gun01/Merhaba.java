@@ -9,7 +9,11 @@ public class Merhaba {
         System.out.println("merhaba 2");
 
         System.out.println("yapıldı");
+
         System.out.println("yapıldı 2");
+
+
+
     }
 
 }
