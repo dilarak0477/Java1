@@ -22,6 +22,8 @@ public class Merhaba {
             System.out.println("hele şükür oldu");
         }
 
+        System.out.println("oldu mu ?");
+
 
 
     }
