@@ -18,7 +18,9 @@ public class Merhaba {
 
         System.out.println("yapıldı sonradan eklen");
 
-
+        for (int i = 0; i <4 ; i++) {
+            System.out.println("hele şükür oldu");
+        }
 
 
 
