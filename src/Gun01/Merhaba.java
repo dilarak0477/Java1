@@ -16,6 +16,12 @@ public class Merhaba {
 
         System.out.println("yapıldı 4");
 
+        System.out.println("yapıldı sonradan eklen");
+
+
+
+
+
     }
 
 }
