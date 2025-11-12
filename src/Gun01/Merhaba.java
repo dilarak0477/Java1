@@ -24,7 +24,7 @@ public class Merhaba {
 
         System.out.println("oldu mu ?");
 
-
+        System.out.println("nasııııl");
 
     }
 
